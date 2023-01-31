@@ -1,4 +1,5 @@
 ### Hi there 👋
+Im currently working on finding an internship for this upcoming summer. I am a junior computational biology student with a minor in applied statistics. 
 
 <!--
 **varunsun/varunsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
